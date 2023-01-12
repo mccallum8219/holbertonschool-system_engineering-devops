@@ -1,2 +1,2 @@
 #!/bin/bash
-type pwd /tmp/iamafile
+pwd type /tmp/iamafile

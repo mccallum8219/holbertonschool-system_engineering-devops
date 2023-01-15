@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_dir chmod o-7g-5u-1
+mkdir my_dir chmod o-7g-5u-2

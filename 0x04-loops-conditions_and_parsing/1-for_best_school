@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Repeating Best School 10 times
+for i in {1..10}; do "Best School"; done
+

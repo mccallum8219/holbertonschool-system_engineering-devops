@@ -3,4 +3,5 @@
 x=10
 until [ $x = 10 ];
 do echo "Best School"
+   ((x++))
 done

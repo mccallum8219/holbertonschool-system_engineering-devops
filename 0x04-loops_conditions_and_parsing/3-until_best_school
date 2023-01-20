@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #bash script that displays "Best School" 10 times using until
-x=10
-until [ $x -eq 10 ];
+x=0
+until [ $x -gt 10 ];
 do echo "Best School"
    ((x++))
 done

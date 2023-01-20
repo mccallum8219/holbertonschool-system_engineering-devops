@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #Loops 1-10, bad luck 4, good luck 8, everything else Best School
-x=0
-while [ $x -le 9 ]
+x=1
+while [ $x -le 10 ]
 do 
 if [ $x -eq 4 ];then echo "bad luck"
 elif [ $x -eq 8 ];then echo "good luck"

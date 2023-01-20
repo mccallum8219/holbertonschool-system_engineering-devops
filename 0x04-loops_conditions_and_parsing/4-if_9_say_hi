@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 #using while and 9th line adds "Best School" "Hi"
 x=0
-while [ $x-ne 11 ];
-    if [ $x -eq 9 ]; then
+while [ $x -ne 11 ];
+    do if [ $x -eq 9 ]; then
    echo "Hi"
     else
 	echo "Best School"

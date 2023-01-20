@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
-#Repeating Best School 10 times
-for i in {1..10}; do "Best School"; done
+#This script is repeating "Best School" 10 times
+for ((n=0;n<10;n++))
+do "Best School"
+done
 

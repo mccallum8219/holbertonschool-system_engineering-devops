@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script is displaying information about school file
+# This script is displaying information about "school" file
 file_h="school"
 
 if [ -e "$file_h" ]

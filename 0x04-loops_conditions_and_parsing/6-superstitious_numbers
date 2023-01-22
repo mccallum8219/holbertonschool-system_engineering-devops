@@ -16,6 +16,6 @@ do
         ;;
     esac
 
-    x=$((i + 1))
+    x=$(( x + 1 ))
 done
 x=$x

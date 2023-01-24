@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-# Kill a process 2
+# Stop a process
 pkill pgrep -f 4-to_infinity_and_beyond

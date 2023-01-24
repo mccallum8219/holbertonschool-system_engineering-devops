@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 # This script is displaying process to kill highlander
+
 pkill -9 -f ./7-highlander
